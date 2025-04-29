@@ -16,6 +16,8 @@ class mahasiswa
 };
 
 int main()
-{
-      return 0;
+{  
+    mahasiswa mhs;
+    mhs.nim = 123456;
+    mhs.nama = "IMRON";
 }
