@@ -21,4 +21,6 @@ int main()
     mhs.nim = 123456;
     mhs.nama = "IMRON";
     mhs.nilai = 10.5;
+    mhs.printData();
+    
 }
